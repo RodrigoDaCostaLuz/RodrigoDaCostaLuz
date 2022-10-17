@@ -1,23 +1,20 @@
 ## Bem vindo ao meu perfil 😀
 
 Meu nome é Rodrigo da Costa Luz e estou iniciando meus estudos em Desenvolvimento Web.
-Atualmente estou estudando na Trybe. 
+
+Iniciei meus estudos em outubro de 2022 na escola de programação Trybe. 
 
 <br>
-
 
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDaCostaLuz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDaCostaLuz&layout=compact&langs_count=10&theme=onedark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
-
-
 
 <!-- REDES SOCIAIS -->
 <div align="center">
