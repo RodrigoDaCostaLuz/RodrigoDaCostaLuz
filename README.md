@@ -1,6 +1,6 @@
-## Bem vindo ao meu perfil 😀
+## Bem vindo ao meu perfil!
 
-Meu nome é Rodrigo da Costa Luz e estou iniciando meus estudos em Desenvolvimento Web.
+Meu chamo Rodrigo da Costa Luz e sou estudante em Desenvolvimento Web.
 
 Iniciei meus estudos em outubro de 2022 na escola de programação Trybe. 
 
