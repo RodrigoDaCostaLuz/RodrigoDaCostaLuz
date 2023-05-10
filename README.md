@@ -1,10 +1,14 @@
 ## Bem vindo ao meu perfil!
 
-Me chamo Rodrigo da Costa Luz e sou estudante em Desenvolvimento Web 🖥️.
+Me chamo Rodrigo da Costa Luz e sou estudante de Desenvolvimento Web 🖥️.
 
 Iniciei meus estudos em outubro de 2022 na escola de programação Trybe 🚀.
-
-Atualmente estou estudando 📚 html, css e javascript. 
+<br>
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_HTML_logo_2.svg" width="50px">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_CSS_logo_2.svg" width="50px">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_React_logo_2.svg" width="50px">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_Redux_logo_2.svg" width="50px">
 <br>
 <!-- REDES SOCIAIS -->
 <div align="center">
