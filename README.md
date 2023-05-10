@@ -9,5 +9,8 @@ Iniciei meus estudos em outubro de 2022 na escola de programação Trybe 🚀.
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
-  <a href="https://www.linkedin.com/in/rodrigodacostaluz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- ![](https://visitor-badge.glitch.me/badge?page_id=RodrigoDaCostaLuz)
+<br>
+<br>
+<a href="https://www.linkedin.com/in/rodrigodacostaluz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+![rodrigoluz999@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)rodrigoluz@gmail.com
